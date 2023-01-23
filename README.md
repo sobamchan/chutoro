@@ -13,4 +13,4 @@ pip install chutoro
 
 ## Example
 
-Checkout `./examples/main.py`.
+Checkout [`./example/main.py`](https://github.com/sobamchan/chutoro/blob/main/examples/main.py).
